@@ -2,12 +2,12 @@
 
 ## Native APIs
 
-- Global keyboard shortcuts API.
-- New window events.
-- `Neutralino.net` for networking APIs. i.e., `Neutralino.net.fetch`
-- Introduce an event system for multi-window communication.
-- File permission API **(Done)**
-- Native window menu API (`window.setMainMenu(obj)` function and `mainMenuItemClicked` event) **(Done)**
+- [ ] Global keyboard shortcuts API.
+- [ ] New window events.
+- [ ] `Neutralino.net` for networking APIs. i.e., `Neutralino.net.fetch`
+- [ ] Introduce an event system for multi-window communication.
+- [x] File permission API **(Done)**
+- [x] Native window menu API (`window.setMainMenu(obj)` function and `mainMenuItemClicked` event) **(Done)**
 
 ## Extensions
 
