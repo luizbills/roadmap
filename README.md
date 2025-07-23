@@ -11,7 +11,7 @@
 
 ## Extensions
 
-- Introduce a way to debug extensions on Windows by displaying stdout/stderr on the terminal. **(Done)**
+- [x] Introduce a way to debug extensions on Windows by displaying stdout/stderr on the terminal. **(Done)**
   
 ## Archived roadmaps
 
